@@ -1,4 +1,7 @@
 # bemo-test
+```
+Vue Components for Kanban Board Columns and Cards
+```
 
 ## Project setup
 ```
