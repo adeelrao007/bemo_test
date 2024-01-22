@@ -1,6 +1,7 @@
 # bemo-test
 ```
 Vue Components for Kanban Board Columns and Cards
+Laravel for backend APIs
 ```
 
 ## Project setup
